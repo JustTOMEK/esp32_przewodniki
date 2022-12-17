@@ -9,10 +9,6 @@
         {
             "library": "ArduinoBLE",
             "version": "latest"
-        },
-        {
-            "library": "Crypto",
-            "version": "latest"
         }
     ]
 }
