@@ -20,10 +20,11 @@ Skrypt programujący płytki wymaga odpowiedniego środowiska w `pythonie3`.
 3. `pip install -r requirements.txt`
 
 Konfiguracja płytki
-
-1. Sprawdź port płytki
-2. Uruchom `python3 setup.py`
-3. Podążaj za instrukcjami
+1. Uruchom `python3 setup.py`
 
 
 ## Używanie skryptu programującego płytki
+
+1. Sprawdź port płytki
+2. Uruchom `python3 program_streamers.py`
+3. Podążaj za instrukcjami
