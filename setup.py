@@ -1,6 +1,8 @@
 import subprocess
 
-_esp32_board_manager_url = "https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json"
+_esp32_board_manager_url = \
+    "https://raw.githubusercontent.com/espressif" +\
+    "/arduino-esp32/gh-pages/package_esp32_index.json"
 
 # Stworzenie pliku konfiguracyjnego
 subprocess.call([
