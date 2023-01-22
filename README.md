@@ -28,3 +28,5 @@ Konfiguracja płytki
 1. Sprawdź port płytki
 2. Uruchom `python3 program_streamers.py`
 3. Podążaj za instrukcjami
+
+(użyj `ls /dev/cu.usb*` do znalezienia portu płytki)
